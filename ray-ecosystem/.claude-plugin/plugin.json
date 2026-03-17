@@ -1,0 +1,10 @@
+{
+  "name": "ray-ecosystem",
+  "description": "Agents and skills for Ray Core, Serve, Data, Train, Tune, and RLlib development",
+  "version": "1.0.0",
+  "author": {
+    "name": "abelyaev-ai"
+  },
+  "license": "MIT",
+  "keywords": ["ray", "distributed-computing", "rllib", "reinforcement-learning", "ml-serving"]
+}
